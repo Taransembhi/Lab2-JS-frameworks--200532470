@@ -14,8 +14,7 @@ To run the functions defined in this file, ensure that Node.js is installed on y
 
 This will execute the JavaScript code in `main.js` and display the output in the terminal.
 ## Example output in terminal
-<img src="https://github.com/Taransembhi/raw/Lab2-JS-frameworks--200532470/Output.png" alt="Image 1" width="400" />
-![Image](https://github.com/Taransembhi/raw/Lab2-JS-frameworks--200532470/Output.png)
+<img src="https://github.com/Taransembhi/raw/Lab2-JS-frameworks--200532470/Output.png">
 
 ## Functions
 - **printWelcomeMessage**: Prints a welcome message with custom greetings.
@@ -38,5 +37,5 @@ The `utils.js` file contains utility functions that are utilized by the `main.js
 These functions are designed to be reusable and modular. They can be imported into other JavaScript files for use in different applications or projects.
 
 ## Utils Image
-<img src="https://github.com/Taransembhi/raw/Lab2-JS-frameworks--200532470/Utils1.png" alt="Image 1" width="400" />
-<img src="https://github.com/Taransembhi/raw/Lab2-JS-frameworks--200532470/Utils2.png" alt="Image 1" width="400" />
+<img src="https://github.com/Taransembhi/raw/Lab2-JS-frameworks--200532470/Utils1.png">
+<img src="https://github.com/Taransembhi/raw/Lab2-JS-frameworks--200532470/Utils2.png">
